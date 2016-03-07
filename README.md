@@ -1,4 +1,4 @@
-# gulp-release
+# gulp-conventional-release
 A gulp plugin for managing semver releases using conventional changelog
 
 ## <a name="commit"></a> Git Commit Guidelines

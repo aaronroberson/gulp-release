@@ -1,5 +1,5 @@
 {
-  "name": "gulp-release",
+  "name": "gulp-conventional-release",
   "version": "0.0.1",
   "description": "A gulp plugin for managing semver releases using conventional changelog",
   "main": "dist/index.umd.js",
@@ -13,7 +13,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/aaronroberson/gulp-release.git"
+    "url": "git+https://github.com/aaronroberson/gulp-conventional-release.git"
   },
   "keywords": [
     "gulp",
@@ -25,13 +25,13 @@
   "author": "Aaron Roberson",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/aaronroberson/gulp-release/issues"
+    "url": "https://github.com/aaronroberson/gulp-conventional-release/issues"
   },
   "files": [
     "lib",
     "dist"
   ],
-  "homepage": "https://github.com/aaronroberson/gulp-release#readme",
+  "homepage": "https://github.com/aaronroberson/gulp-conventional-release#readme",
   "dependencies": {
     "babel-core": "6.5.x",
     "conventional-changelog": "^1.1.0",
