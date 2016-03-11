@@ -13,7 +13,7 @@
  */
 
 import 'babel-register';
-import './babel-helpers';
+import './lib/babel-helpers';
 
 import gulp from 'gulp';
 import help from 'gulp-help';
