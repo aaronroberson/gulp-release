@@ -14,6 +14,7 @@
 import gulp from 'gulp';
 import help from 'gulp-help';
 import requireDir from 'require-dir';
+import 'external-helpers';
 
 // provide help through "gulp help" -- the help text is the second gulp task argument (https://www.npmjs.com/package/gulp-help/)
 help(gulp);

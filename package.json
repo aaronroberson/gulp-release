@@ -34,6 +34,7 @@
   "homepage": "https://github.com/aaronroberson/gulp-conventional-release#readme",
   "dependencies": {
     "babel-core": "6.5.x",
+    "babel-plugin-external-helpers": "^6.5.0",
     "conventional-changelog": "^1.1.0",
     "conventional-recommended-bump": "^0.1.1",
     "gulp": "^3.9.1",
