@@ -1,6 +1,6 @@
 {
   "name": "gulp-conventional-release",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "A gulp plugin for managing semver releases using conventional changelog",
   "main": "dist/index.umd.js",
   "jsnext:main": "dist/index.es6.js",
@@ -35,6 +35,7 @@
   "dependencies": {
     "babel-core": "6.5.x",
     "babel-plugin-external-helpers": "^6.5.0",
+    "babel-register": "^6.7.2",
     "conventional-changelog": "^1.1.0",
     "conventional-recommended-bump": "^0.1.1",
     "gulp": "^3.9.1",
