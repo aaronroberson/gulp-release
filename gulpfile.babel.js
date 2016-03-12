@@ -28,4 +28,4 @@ requireDir('./lib/gulp/tasks', {
 });
 
 // Default task
-gulp.task('default', 'Release package', ['release']);
+gulp.task('default', 'Release package', ['release-it']);
