@@ -25,7 +25,7 @@ This process is automated with gulp, including determining the type of version t
 
 1. Complete a feature or bug
 2. Commit changes with the commit message format (see below)
-3. Run `gulp release` (this will stage and commit the changes, bump the version in package.json, run conventional-changelog to update the changelog, tag the version, and push the changes0.
+3. Run `gulp release-it` (this will stage and commit the changes, bump the version in package.json, run conventional-changelog to update the changelog, tag the version, and push the changes0.
 4. Create PR
 
 ### Commit Message Format
